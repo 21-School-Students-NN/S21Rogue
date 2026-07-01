@@ -1,7 +1,7 @@
 package com.s21rogue;
 
 /**
- * Main calss of the our game. The Game!
+ * Main class of our game. The Game!
  */
 public class Game {
     public String getGreeting() {
