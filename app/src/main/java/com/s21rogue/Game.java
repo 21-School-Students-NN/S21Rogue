@@ -1,11 +1,11 @@
 package com.s21rogue;
 
 /**
- * Main calss of the our game. The Game!
+ * Main class of our game. The Game!
  */
 public class Game {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello, Rogue!";
     }
 
     public static void main(String[] args) {

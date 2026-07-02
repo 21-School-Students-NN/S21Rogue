@@ -25,6 +25,9 @@ dependencies {
     // TUI interface
     implementation("com.googlecode.lanterna:lanterna:3.1.1")
 
+    // Jackson for working with JSON
+    implementation("tools.jackson.core:jackson-core:3.2.0")
+
     // This dependency is used by the application.
     implementation(libs.guava)
 }
